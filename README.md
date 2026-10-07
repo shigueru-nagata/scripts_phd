@@ -1,4 +1,4 @@
-# Description of all scripts
+# Scripts Overview
 
 ## job_array.sh
 
